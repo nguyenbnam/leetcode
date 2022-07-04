@@ -1,14 +1,14 @@
 # Leetcode
 
-**Câu 1 - Towsum:**
+**Câu 1 - Towsum:**.\
 input: int[] nums.\
-b1: gán 1 biết sum = 0;
-b2: duyệt từng phần tử với các phần tử phía sau;
-b2.1: gán sum = phần tử thứ i + phần tử thứ j với vị trí j = i + 1
-b2.2: kiểm tra sum == target
- - True: return mảng với 2 vị trí này
- - False: continue
-b3: mặc định return mảng không có giá trị
+b1: gán 1 biết sum = 0;.\
+b2: duyệt từng phần tử với các phần tử phía sau;.\
+b2.1: gán sum = phần tử thứ i + phần tử thứ j với vị trí j = i + 1.\
+b2.2: kiểm tra sum == target.\
+ - True: return mảng với 2 vị trí này.\
+ - False: continue.\
+b3: mặc định return mảng không có giá trị.\
 
 ***Câu 9 - Palindrome:***
 **input: num;**
