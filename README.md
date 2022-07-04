@@ -10,7 +10,7 @@ b2.2: kiểm tra sum == target
  - False: continue
 b3: mặc định return mảng không có giá trị
 
-**Câu 9: Palindrome**
+**Câu 9 - Palindrome:**
 input: num;
 b1: khởi t biến (long) reverse, mask = num, diffNumber = num; int i = 0(check có bnhieu chữ số), surplus = 0;
 b2: kiểm tra có bnhieu chữ số dư của phép chia num % 10 với điều kiện num > 0, lặp num/10;
