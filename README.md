@@ -1,7 +1,7 @@
 # Leetcode
 
 **Câu 1 - Towsum:**
-input: int[] nums
+input: int[] nums.\
 b1: gán 1 biết sum = 0;
 b2: duyệt từng phần tử với các phần tử phía sau;
 b2.1: gán sum = phần tử thứ i + phần tử thứ j với vị trí j = i + 1
